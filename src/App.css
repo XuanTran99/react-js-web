@@ -31,7 +31,7 @@
 
 .App-Footer {
   margin-top: 10px;
-  width: 70%;
+  width: 600;
   border: 0.1em solid;
   border-color: #f3f3f3;
   align-items: center;
@@ -40,9 +40,11 @@
 }
 
 .Footer-image {
-  border-bottom: 0.1em solid;
-  border-color: #f3f3f3;
+  /* border-bottom: 0.1em solid;
+  border-color: #f3f3f3; */
   width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .Footer-body {
