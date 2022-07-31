@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import "antd/dist/antd.css";
-import { Button, Col, Image, Row } from 'antd';
+import { Button, Image } from 'antd';
 import imageHeader from './Image/logo192.png'
 
 function App() {
