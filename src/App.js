@@ -23,7 +23,7 @@ function App() {
           <span style={{color: 'gray', fontSize: 14}}>Giao dịch khỏi nghỉ mất tiền MB Chi</span>
           <br/>
           <Button type="primary" style={{borderRadius: 5}}  onClick={() => {
-             window.location.href = 'https://shorten.asia/fdRx4cnt';
+             window.location.href = 'https://shorten.asia/FjmBv1EB';
           }} className={'Button-Footer'}>
             Đăng ký ngay
           </Button>
